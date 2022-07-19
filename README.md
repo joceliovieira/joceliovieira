@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **data engineering.**
 
-- 👨‍💻 All of my projects are available at [github.com/joceliovieira](github.com/joceliovieira)
+- 👨‍💻 Some of my projects and studies are available at [github.com/joceliovieira](github.com/joceliovieira)
 
 - 📫 How to reach me **jocelio.dev@gmail.com**
 
