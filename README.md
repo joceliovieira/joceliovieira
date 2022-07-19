@@ -1,21 +1,24 @@
-# Hi 👋, I'm Jocelio Vieira
+# Hi! 👋 I'm Jocelio Vieira
 
 ### I'm a Energy Engineer passionate about data and its technologies
 
-- 🔭 I’m currently working on **Forecasting (Artificial Neural Networks), Dashboards, Software Development and Deployment** at a **Battery + PV Optimization research project**
+- 🔭 I’m currently working on **Time-series Forecasting (Artificial Neural Networks), Dashboards, Software Development and Deployment** at a **Battery + PV Optimization research project**.
 
 - 🌱 I’m currently learning **data engineering.**
 
 - 👨‍💻 Some of my projects and studies are available at [github.com/joceliovieira](github.com/joceliovieira)
 
-- 📫 How to reach me **jocelio.dev@gmail.com**
+### 📫 Connect with me!
 
-### Connect with me
+You can contact me at **jocelio.dev@gmail.com** or on my [LinkedIn profile](https://linkedin.com/in/joceliovieira).
 
-<a href="https://linkedin.com/in/joceliovieira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joceliovieira" height="30" width="40" /></a>
-</p>
+### Skills
 
-### Languages and Tools:
+I can manage different technologies involved in Data Science and Machine Learning projects, from data engineering processes like ETL in Apache Airflow, to data processing and analysis, with technologies like the Pandas Python package, and Machine Learning and Deep Learning models with Scikit-learn and TensorFlow.
+
+Some of my projects were developed based on Docker containerization with configuration through Bash scripts, Python scripts, .env files, etc.
+
+### Languages and Tools
 
 <p align="left"> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
@@ -28,6 +31,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>  </a> 
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorfl;ow-icon.svg" alt="tensorflow" width="40" height="40"/>  </a> 
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="./img/pin.png" alt="airflow" width="40" height="40"/> </a>
 </p>
