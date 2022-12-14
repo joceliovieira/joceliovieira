@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Jocelio Vieira
 
-### I'm a Energy Engineer passionate about data and its technologies!
+### I'm an Energy Engineer passionate about data and its technologies!
 
 - 🔭 I’m currently working on **Time-series Forecasting (Artificial Neural Networks), Dashboards, Software Development and Deployment** at a **Battery + PV Optimization research project**.
 
