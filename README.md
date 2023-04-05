@@ -38,11 +38,8 @@ I'm experienced with a range of technologies and languages, such as Docker, Linu
 <img src="img/scikit.svg" alt="scikit_learn" width="35" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
 </p>
 <p>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="./img/aws.svg" alt="aws" width="55" height="40"/> </a>
 <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"><img src="./img/databricks.svg" alt="databricks" width="110" height="40"/> </a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="./img/aws.svg" alt="aws" width="60" height="40"/> </a>
-</p>
-
-<p>
 </p>
 
 
