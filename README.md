@@ -21,7 +21,7 @@ I am able to manage different processes involved in Data Science and Machine Lea
 
 It includes the infrastruture setup and management, data analysis, Machine/Deep Learning model development and deployment, data engineering processes (data warehousing, ETL, data pipelines).
 
-I'm experienced with a range of technologies, such as Docker, Linux, Bash and Python scripts, dotenv files, and more, as follows in the next section.
+I'm experienced with a range of technologies and languages, such as Docker, Linux, Bash and Python scripts, SQL, dotenv files, and more, as follows in the next section.
 
 ### Technologies
 
