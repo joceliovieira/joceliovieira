@@ -12,7 +12,8 @@
 
 ### Connect with me!
 
-You can contact me at **jocelio.dev@gmail.com** or on my [LinkedIn profile](https://linkedin.com/in/joceliovieira).
+You can contact me at **jocelio.dev@gmail.com** or on my [LinkedIn profile](https://linkedin.com/in/joceliovieira).  
+I'm always up for a good conversation!
 
 ### Skills
 
