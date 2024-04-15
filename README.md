@@ -4,24 +4,24 @@
 
 🖤 I'm passionate about data and its power and technologies!
 
-🔭 Working on the development of **Time-series Forecasting with Deep Learning, Dashboards, Software Development and Deployment** at a **Battery + PV Optimization research project**.
+🔭 Working with Data Engineering and (Data/ML)ops.
 
-🌱 Currently learning about **Big Data Analytics with Apache Spark on Databricks**.
+🌱 Currently learning about **Web Dev.** for delivering better data apps.
 
 👨‍💻 Some of my projects and studies are available at [github.com/joceliovieira](github.com/joceliovieira)
 
 ### Connect with me!
 
-You can contact me at **jocelio.dev@gmail.com** or on my [LinkedIn profile](https://linkedin.com/in/joceliovieira).  
+You can contact me at <jocelio.dev@gmail.com> or on my [LinkedIn profile](https://linkedin.com/in/joceliovieira).  
 I'm always up for a good conversation!
 
 ### Skills
 
 I am able to manage different processes involved in Data Science and Machine Learning projects.
 
-It includes the infrastruture setup and management, data analysis, Machine/Deep Learning model development and deployment, data engineering processes (data warehousing, ETL, data pipelines).
+Going from infrastructure setup and management, to data analysis, Machine/Deep Learning model development and deployment, data engineering processes (data warehousing, ETL, data pipelines).
 
-I'm experienced with a range of technologies and languages, such as Docker, Linux, Bash and Python scripts, SQL, dotenv files, and more, as follows in the next section.
+I'm experienced with a range of technologies and languages, such as Docker, Linux, Bash and Python, SQL, Apache Airflow, Airbyte and more, as follows in the next section.
 
 ### Tools and Languages
 
@@ -41,5 +41,3 @@ I'm experienced with a range of technologies and languages, such as Docker, Linu
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="./img/aws.svg" alt="aws" width="55" height="40"/> </a>
 <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"><img src="./img/databricks.svg" alt="databricks" width="110" height="40"/> </a>
 </p>
-
-
