@@ -4,7 +4,7 @@
 
 🖤 I'm passionate about data and its power and technologies!
 
-🔭 Working with Data Engineering and (Data/ML)ops.
+🔭 Working with Data Engineering and (Data/ML)Ops.
 
 🌱 Currently learning about **Web Dev.** for delivering better data apps.
 
@@ -21,7 +21,7 @@ I am able to manage different processes involved in Data Science and Machine Lea
 
 Going from infrastructure setup and management, to data analysis, Machine/Deep Learning model development and deployment, data engineering processes (data warehousing, ETL, data pipelines).
 
-I'm experienced with a range of technologies and languages, such as Docker, Linux, Bash and Python, SQL, Apache Airflow, Airbyte and more, as follows in the next section.
+I'm experienced with a range of technologies and languages, such as Docker, Linux, Bash, Python, SQL, Apache Airflow, Airbyte and more, as follows in the next section.
 
 ### Tools and Languages
 
