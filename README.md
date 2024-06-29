@@ -4,7 +4,7 @@
 
 🖤 I'm passionate about data and its power and technologies!
 
-🔭 Working with Data Engineering/Science/Ops.
+🔭 Working with **Data Engineering/Science/Ops**.
 
 🌱 Currently learning about **Backend Web Develpment** for delivering better data apps.
 
