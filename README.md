@@ -4,9 +4,9 @@
 
 🖤 I'm passionate about data and its power and technologies!
 
-🔭 Working with Data Engineering and (Data/ML)Ops.
+🔭 Working with Data Engineering/Science/Ops.
 
-🌱 Currently learning about **Web Dev.** for delivering better data apps.
+🌱 Currently learning about **Backend Web Develpment** for delivering better data apps.
 
 👨‍💻 Some of my projects and studies are available at [github.com/joceliovieira](github.com/joceliovieira)
 
